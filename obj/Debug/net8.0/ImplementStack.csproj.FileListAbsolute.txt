@@ -1,0 +1,14 @@
+D:\homeworke\ImplementStack\bin\Debug\net8.0\ImplementStack.exe
+D:\homeworke\ImplementStack\bin\Debug\net8.0\ImplementStack.deps.json
+D:\homeworke\ImplementStack\bin\Debug\net8.0\ImplementStack.runtimeconfig.json
+D:\homeworke\ImplementStack\bin\Debug\net8.0\ImplementStack.dll
+D:\homeworke\ImplementStack\bin\Debug\net8.0\ImplementStack.pdb
+D:\homeworke\ImplementStack\obj\Debug\net8.0\ImplementStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\ImplementStack\obj\Debug\net8.0\ImplementStack.AssemblyInfoInputs.cache
+D:\homeworke\ImplementStack\obj\Debug\net8.0\ImplementStack.AssemblyInfo.cs
+D:\homeworke\ImplementStack\obj\Debug\net8.0\ImplementStack.csproj.CoreCompileInputs.cache
+D:\homeworke\ImplementStack\obj\Debug\net8.0\ImplementStack.dll
+D:\homeworke\ImplementStack\obj\Debug\net8.0\refint\ImplementStack.dll
+D:\homeworke\ImplementStack\obj\Debug\net8.0\ImplementStack.pdb
+D:\homeworke\ImplementStack\obj\Debug\net8.0\ImplementStack.genruntimeconfig.cache
+D:\homeworke\ImplementStack\obj\Debug\net8.0\ref\ImplementStack.dll
